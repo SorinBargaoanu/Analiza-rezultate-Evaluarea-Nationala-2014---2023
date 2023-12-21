@@ -1,10 +1,10 @@
-# Analiza rezultatelor la Evaluarea Nationala intre 2014 - 2023
-Analiza facuta pe rezultatele individuale la Evaluarea Nationala din Romania (examen la sfarsitul clasei VIII), pentru anii 2014 - 2023.
+# Analiza rezultatelor la Evaluarea Națională între 2014 - 2023
+Analiza făcută pe rezultatele individuale la Evaluarea Națională din România (examen la sfârșitul clasei a VIII-a), pentru anii 2014 - 2023.
 
-## Numarul de elevi participanti anual
+## Numărul de elevi participanți anual
 
-:exclamation: Observatii: 
-desi numarul participantilor a fluctuat de-a lungul anilor, se observa un numar constant.
+:exclamation: Observație: 
+Deși se observa fluctuații în numărul de participanți de-a lungul anilor, se remarcă o stabilitate generală în cifrele înregistrate.
 
 | An | F | M | Total |
 |---------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -25,11 +25,11 @@ desi numarul participantilor a fluctuat de-a lungul anilor, se observa un numar 
 
 ![](images/evolutie_note.jpg)
 
-## Evoluția Procentului de elevi cu note >= 5 și >= 7
+## Evoluția procentului de elevi cu note >= 5 și >= 7
 
 ![](images/evolutie_procent_note.jpg)
 
-## Compararea performatei pe genuri
+## Compararea performanței pe genuri
 
 ![](images/media_gen.jpg)
 
@@ -38,7 +38,7 @@ Comparăm performanța pe genuri pentru fiecare an în parte.
 
 ![](images/medii_gen_ani.jpg)
 
-## Analiza Distribuției Notelor
+## Analiza distribuției notelor
 
 Distribuția notelor pentru fiecare gen, folosind histograma. Astfel, putem vedea dacă există diferențe în variabilitatea scorurilor între fete și băieți.
 
@@ -50,12 +50,12 @@ Distribuția notelor pentru fiecare gen, folosind histograma. Astfel, putem vede
 
 ![](images/distributie_note_gen.jpg)
 
-## Analiza Grupurilor de Performanță
+## Analiza grupurilor de performanță
 Segmentăm elevii în grupuri bazate pe performanță (cele mai bune note 10%, mediu, cele mai slabe note 10%) și analizăm compoziția pe genuri în aceste grupuri.
 
 ![](images/top_middle_bottom_percentile.jpg)
 
-## Compararea Performanței în Funcție de Mediu Urban/Rural
+## Compararea performanței în funcție de mediu urban/rural și gen 
 Analizăm diferențele de performanță între fete și băieți din mediul urban față de cel rural.
 
 ![](images/medie_note_mediu_gen.jpg)
